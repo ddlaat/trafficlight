@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLight.API", "TrafficLight.API\TrafficLight.API.csproj", "{13C41730-2358-4789-81A6-4E8FFFF6B180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLight.Test", "TrafficLight.Test\TrafficLight.Test.csproj", "{BA8B8B16-0F8F-426D-B166-C907D593DB2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLight.Domain", "TrafficLight.Domain\TrafficLight.Domain.csproj", "{EF959D1C-EF87-4269-B4D2-FEF8AECA120A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLight.Infrastructure", "TrafficLight.Infrastructure\TrafficLight.Infrastructure.csproj", "{2EB1B9AD-2993-45F6-8C20-D4D8F42E44EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C41730-2358-4789-81A6-4E8FFFF6B180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C41730-2358-4789-81A6-4E8FFFF6B180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C41730-2358-4789-81A6-4E8FFFF6B180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C41730-2358-4789-81A6-4E8FFFF6B180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8B8B16-0F8F-426D-B166-C907D593DB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8B8B16-0F8F-426D-B166-C907D593DB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8B8B16-0F8F-426D-B166-C907D593DB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8B8B16-0F8F-426D-B166-C907D593DB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF959D1C-EF87-4269-B4D2-FEF8AECA120A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF959D1C-EF87-4269-B4D2-FEF8AECA120A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF959D1C-EF87-4269-B4D2-FEF8AECA120A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF959D1C-EF87-4269-B4D2-FEF8AECA120A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB1B9AD-2993-45F6-8C20-D4D8F42E44EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB1B9AD-2993-45F6-8C20-D4D8F42E44EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB1B9AD-2993-45F6-8C20-D4D8F42E44EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB1B9AD-2993-45F6-8C20-D4D8F42E44EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
